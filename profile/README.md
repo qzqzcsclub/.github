@@ -4,6 +4,11 @@
 
 ### Welcome to Cyber Security Club
 
+```go
+// Tech Otakus Save the world.
+fmt.Println("Hello, World!")
+```
+
 </div>
 
 ## 社团官网
