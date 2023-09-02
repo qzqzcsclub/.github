@@ -17,7 +17,9 @@ fmt.Println("Hello, World!")
 
 官网源码：[https://github.com/qzqzcsclub/csclubweb](https://github.com/qzqzcsclub/csclubweb)
 
-## 社团群组
+## 联系我们
+
+Email: [qzcsclub@outlook.com](mailto:qzcsclub@outlook.com)
 
 QQ: [894081004](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=gNZbF9HTz2nJ5_4oYOEpKvRWOLqL64BG&authKey=sqrQpckT11%2FVfNaG9OFb%2BZ9zFr063%2Fg7RZyaz3qnKIU8vigLxKE733kdV%2F5h0qs5&noverify=0&group_code=894081004)
 
