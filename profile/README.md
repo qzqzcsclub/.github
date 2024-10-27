@@ -13,7 +13,7 @@ fmt.Println("Hello, World!")
 
 ## 社团官网
 
-欢迎访问：[https://csclub.nin.red](http://csclub.nin.red/)
+欢迎访问：[https://csc.iteacher.org.cn/](https://csc.iteacher.org.cn/)
 
 官网源码：[https://github.com/qzqzcsclub/csclubweb](https://github.com/qzqzcsclub/csclubweb)
 
